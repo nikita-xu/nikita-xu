@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Nikita Xu 😄
 
-<!--
-**nikita-xu/nikita-xu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Master’s student in Business Analytics at Santa Clara University with a strong interest in data analytics, marketing analytics, machine learning, and data-driven decision making.
 
-Here are some ideas to get you started:
+As a lifelong athlete, I’ve naturally been drawn to roles at the intersection of sports, data, and business. My experience includes working with global brands like HOKA and Porsche Motorsport. Currently, I am part of an industry practicum with Uber to building data products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Experience 🏎️
+
+* Uber (Industry Practicum) – Procurement Analytics & Product Development
+* HOKA – Sports Marketing & Consumer Insights
+* Porsche Motorsport – Marketing & Event Strategy
+
+---
+
+## Featured Projects 📂
+
+* Procurement Recommendation System (Uber Practicum)  
+  Product Analytics | Vendor Ranking Algorithm | KPI Framework | Procurement Data | Cost/Quality/Risk Scoring | UI/UX Prototype  
+
+* Airbnb Market Analysis (Machine Learning)  
+  Python | Regression (Linear, RF, XGBoost) | K-Means Clustering | PCA | Feature Engineering | 80K+ Dataset  
+
+* California Traffic Collision Analysis (Data Analytics)  
+  ETL | Pandas | NumPy | Data Cleaning | Risk Analysis | Data Visualization (Maps, Charts)  
+
+* Toys“R”Us Re-Imagined (Business Strategy)  
+  PESTEL | Five Forces | VRIO | Financial Modeling | Business Model Design | Strategy Presentation  
+
+---
+
+## Skills ⌨️
+
+Python | SQL | R | Machine Learning | Data Analysis | Tableau
+Product Analytics | KPI Development | Data Visualization
+
+---
+
+## Interests 😊
+
+Sports & Media
+Product Analytics
+Machine Learning Applications in Business
+
+---
+
+## Contact ✉️
+
+LinkedIn: https://www.linkedin.com/in/wennixu/
+
