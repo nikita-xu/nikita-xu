@@ -1,6 +1,6 @@
 # Hi, I'm Nikita Xu 😄
 
-I’m a Master’s student in Business Analytics at Santa Clara University with a strong interest in data analytics, marketing analytics, machine learning, and data-driven decision making.
+I’m a Master’s student in Business Analytics with a strong interest in data analytics, marketing analytics, machine learning, and data-driven decision making.
 
 As a lifelong athlete, I’ve naturally been drawn to roles at the intersection of sports, data, and business. My experience includes working with global brands like HOKA and Porsche Motorsport. Currently, I am part of an industry practicum with Uber to building data products.
 
