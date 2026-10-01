@@ -19,7 +19,7 @@ As a lifelong athlete, I’ve naturally been drawn to roles at the intersection 
 * Procurement Recommendation System (Uber Practicum)  
   Product Analytics | Vendor Ranking Algorithm | KPI Framework | Procurement Data | Cost/Quality/Risk Scoring | UI/UX Prototype
   
-* Green City Logistics (Prescriptive Analytics)
+* Green City Logistics (Prescriptive Analytics)  
   Python | Gurobi | Mixed-Integer Programming | Multi-Objective Optimization | Facility Location | Fleet & Emissions Constraints | Sensitivity Analysis
   
 * Airbnb Market Analysis (Machine Learning)  
