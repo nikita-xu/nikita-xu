@@ -17,8 +17,11 @@ As a lifelong athlete, I’ve naturally been drawn to roles at the intersection 
 ## Featured Projects 📂
 
 * Procurement Recommendation System (Uber Practicum)  
-  Product Analytics | Vendor Ranking Algorithm | KPI Framework | Procurement Data | Cost/Quality/Risk Scoring | UI/UX Prototype  
-
+  Product Analytics | Vendor Ranking Algorithm | KPI Framework | Procurement Data | Cost/Quality/Risk Scoring | UI/UX Prototype
+  
+* Green City Logistics (Prescriptive Analytics)
+  Python | Gurobi | Mixed-Integer Programming | Multi-Objective Optimization | Facility Location | Fleet & Emissions Constraints | Sensitivity Analysis
+  
 * Airbnb Market Analysis (Machine Learning)  
   Python | Regression (Linear, RF, XGBoost) | K-Means Clustering | PCA | Feature Engineering | 80K+ Dataset  
 
@@ -26,7 +29,8 @@ As a lifelong athlete, I’ve naturally been drawn to roles at the intersection 
   ETL | Pandas | NumPy | Data Cleaning | Risk Analysis | Data Visualization (Maps, Charts)  
 
 * Toys“R”Us Re-Imagined (Business Strategy)  
-  PESTEL | Five Forces | VRIO | Financial Modeling | Business Model Design | Strategy Presentation  
+  PESTEL | Five Forces | VRIO | Financial Modeling | Business Model Design | Strategy Presentation
+
 
 ---
 
